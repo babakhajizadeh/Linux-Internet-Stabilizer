@@ -1,5 +1,5 @@
 <div class="header">
-  <img src="https://github.com/babakhajizadeh/Linux-Internet-Stabilizer/blob/main/logo.png" alt="Babak Hajizadeh" style="float:left;"/>
+  <img src="https://github.com/babakhajizadeh/Linux-Internet-Stabilizer/blob/main/readme_logo.png" alt="Babak Hajizadeh" style="float:left;"/>
   <h1>Linux Internet Stabilizer</h1>
  </div>
 Linux Internet stabilizer can reconnect to Internet in case of connection lose, 
