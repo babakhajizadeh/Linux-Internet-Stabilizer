@@ -1,5 +1,6 @@
 <img src="https://github.com/babakhajizadeh/Linux-Internet-Stabilizer/blob/main/readme_logo.png" alt="Babak Hajizadeh" style="float:left;"/>
-(https://img.shields.io/badge/python%40master-v3.7-blue)
+
+![made-with-python](https://img.shields.io/badge/python-v3.7-blue)
 # Linux-Internet-Stabilizer
 
 __Linux Internet stabilizer can reconnect to Internet in case of connection lose.__  
