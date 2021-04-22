@@ -17,6 +17,6 @@ chmod +x stabilizer.py
 sudo ./stabilizer.py
 ```
 #### Contact
-Created by [Babak Hajizadeh]( www.linkedin.com/in/babakhajizadeh)(LinkedIn) - feel free to contact me!  
+Created by [Babak Hajizadeh]( www.linkedin.com/in/babakhajizadeh) (LinkedIn) - Feel free to contact me!  
 __Telegram: bh_clientsupport__  
 __Instagram: bh.social__  
